@@ -1,0 +1,14 @@
+[class="background"]{
+	background-color:darkblue;
+}
+
+[class="panel"]{
+	display: inline;
+	color: white;
+	padding-left: 25px;
+	font: 'Courier';
+}
+[class="what_is_swe"]{
+	color: white;
+	font: 'Courier';
+}
